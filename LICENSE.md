@@ -1,4 +1,4 @@
-/* Copyright (C) Aurium Foundation - All Rights Reserved
+Copyright (C) Aurium Foundation - All Rights Reserved
  * Unauthorized modification of this file, via any medium is strictly prohibited
  * Unauthorized redistrubution of this file, via any medium is strictly prohibited
  * Proprietary 
@@ -7,4 +7,3 @@
  * Written by Anonymous on behalf of the Aurium Foundation <thedoom@villanclan.com>, January 2022
  * Special Licensing Agreement granted to the BitcoinPlus Foundation from the Aurium Foundation.
  * This license can be terminated in the future by the Aurium Foundation
- */
