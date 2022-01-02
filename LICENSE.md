@@ -5,4 +5,4 @@ Copyright (C) Aurium Foundation - All Rights Reserved
  * The code may be downloaded for intention of hosting a Bitcoin Plus Node or doing a security audit. Any other intetion is not authorized.
  * Written by Anonymous on behalf of the Aurium Foundation <thedoom@villanclan.com>, January 2022
  * Special Licensing Agreement granted to the BitcoinPlus Foundation from the Aurium Foundation.
- * This license can be terminated in the future by the Aurium Foundation
+ * This license can be terminated in the future by the Aurium Foundation, the license applied after termination is the M.I.T. License
