@@ -1,6 +1,5 @@
 Copyright (C) Aurium Foundation - All Rights Reserved
- * Unauthorized modification of this file, via any medium is strictly prohibited
- * Unauthorized redistrubution of this file, via any medium is strictly prohibited
+ * Unauthorized modification and redistrubution of this file, via any medium is strictly prohibited
  * Proprietary 
  * Authorization for modification and redistrubution of this file is granted to the BitcoinPlus Foundation and the Aurium Foundation.
  * The code may be downloaded for intention of hosting a Bitcoin Plus Node or doing a security audit. Any other intetion is not authorized.
